@@ -9,6 +9,8 @@ Given a mission fiche and the consultants in intermission, produce a table telli
 
 Each consultant has a folder in the Drive folder "DC- Consultants Wivoo" (`149FelJQXXY6lZSE40By4D-ApIldqYSJp`), named roughly "DC - Prénom NOM". The folder holds their DCs and a `ledger.md`: a complete record of what their DCs say, written for you to match against.
 
+The ledger and the table have opposite jobs. The ledger keeps everything, including where DC versions disagree, because it cannot know which detail a future fiche will turn on. The table is read in seconds by someone deciding who to call, so each cell carries what bears on that decision for this fiche. Before writing something down, ask whether the sales person would decide differently for knowing it; if not, it is noise, however true. Most of what the ledger flags, such as disagreements between versions or details a DC leaves out, changes nothing for a given fiche. In a table about colleagues, raising it needlessly can also read as doubt about someone's honesty.
+
 ### 1. Read the fiche and set the grille
 
 Start from the fiche alone, before reading any ledger, so the grille reflects the job rather than the pool. Fiches are dense and written in the client's vocabulary, and their title does not always match the work. Work out the core work of the job: what the consultant will actually do day to day. Tools, sector and education listed in the fiche are secondary.
@@ -26,7 +28,7 @@ For each name, find the folder and list its files. If there is no `ledger.md`, o
 Go through the consultants one at a time and fill in the grille.
 
 - Missions in the ledger are the evidence; the profile tells you what the person claims.
-- Judge the work, not titles, keywords, tools or sector. Someone who did the work with other tools fits.
+- Judge the work, not titles, keywords, tools or sector. Someone who did the work with other tools fits. The exception here is if you can tell that the fiche is REALLY explicit about tooling. Use discernment to tell whether or not someone's experience is easily transferable.
 
 Each criterion gets a mark, then one sentence saying what the person's experience means for that criterion, in words the sales person could repeat to the client. The sentence interprets; it does not just list activities.
 
@@ -49,13 +51,13 @@ For seniority, count the years spent doing the kind of work the fiche asks for, 
 
 Seniority flags and orders; it does not set the verdict.
 
-Where DC versions disagree, show it with ? or inside the sentence when it changes the reading. Which file said what, how many versions exist and how complete they are is ledger business, not sales business, so it stays out of the file.
+When a disagreement between DC versions does change the reading, show it with ? or inside the sentence.
 
 Then give each consultant one verdict, read off the core criteria:
 
 - Bon fit: has done the core work hands-on, in a comparable context.
 - Fit avec réserves: has done a large part of the core work hands-on, with one or two gaps outside the core (less seniority, a secondary criterion).
-- À creuser: hasn't done the core work, but has done part of it, and one condition about the person could make it work, such as ramping up on a tool. When the fiche itself is ambiguous, say so in the Lecture du poste rather than reading it to fit a candidate.
+- À creuser: hasn't done the core work, but has done part of it. When the fiche itself is ambiguous, say so in the Lecture du poste rather than reading it to fit a candidate. If the only condition is that the client accepts someone without the core work or at least proof that they're capable of it, that isn't a condition, since it would apply to anyone; the verdict is Pas pertinent.
 - Pas pertinent: hasn't done the core work, and no condition would change that.
 
 The verdict says how well someone fits. Separately, open Pourquoi with "Fit caché :" for someone whose experience fits but whose title, sector or wording wouldn't suggest it: the person a quick read of the fiche and the DC would pass over, and whose real experience is undersold on paper. This can happen at any level. The flag explains a verdict the core criteria already support; it does not raise one.
@@ -66,10 +68,11 @@ A consultant with no ledger gets "DC manquant" instead of a verdict. A fiche may
 
 The reply, in this order:
 
-1. Lecture du poste: a short paragraph in plain language on what the job seems to actually be and what kind of profile the client seems to be looking for.
-2. Ce que j'évalue: the grille, one line per criterion saying why it matters, core criteria marked, how seniority is read for this fiche, and a one-line legend for the marks.
-3. En bref: a few lines on who stands out and why, and whether anyone fits at all.
-4. The file.
+1. Lecture du poste: a short paragraph in plain language on what the job seems to actually be and what kind of profile the client seems to be looking for. Where you had to make a judgment call in reading the fiche, say which one and what it does to the verdicts.
+2. Ce que j'évalue: the grille, one line per criterion saying why it matters, core criteria marked, then how seniority is read for this fiche.
+3. En bref: the headline result, then a line or two for each consultant who stands out, with their verdict, what they bring and what they lack. Group the rest in one line.
+4. Légende: one line for the marks.
+5. The file.
 
 The file is a spreadsheet holding only the ranked table (one tab per role when there are several); the grille stays in the reply. One row per consultant, everyone included:
 
@@ -77,7 +80,7 @@ The file is a spreadsheet holding only the ranked table (one tab per role when t
 
 - #: overall rank, as a whole number. Sort by verdict, then within a verdict by the core criteria, then by the other criteria and seniority.
 - Pourquoi: the case for the person, in 2 to 3 sentences of plain French, the way a colleague would sum them up for this fiche. The readers are internal sales people, so no marketing tone. Describe; the sales person decides.
-- Pourquoi pas: the real reason the person falls short of this job, in a sentence or two, rather than a list of what the DC doesn't mention.
+- Pourquoi pas: the real reason the person falls short of this job, in a sentence or two.
 - À condition que: filled for À creuser only, with the one condition that could make it work, for example "si le client accepte un profil Product Manager plutôt que Business Analyst". Availability, rate and location are the sales person's job.
 - Métier: a few words.
 - Criterion columns: named after the grille, each cell a mark and its sentence.
