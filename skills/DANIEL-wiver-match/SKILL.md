@@ -26,7 +26,7 @@ Go through the consultants one at a time and fill in the grille.
 - Missions in the ledger are the evidence; the profile tells you what the person claims.
 - Judge the work, not titles, keywords, tools or sector. Someone who did the work with other tools fits.
 
-Each criterion gets a mark, then one sentence saying what the person's experience means for that criterion, in words the sales person could repeat to the client. The sentence interprets; it does not list activities.
+Each criterion gets a mark, then one sentence saying what the person's experience means for that criterion, in words the sales person could repeat to the client. The sentence interprets; it does not just list activities.
 
 - Not this: "BA : ateliers, campagnes UAT, suivi anomalies (Alstom)"
 - This: "● Elle a déjà porté ce cycle complet chez Alstom, du cadrage avec le métier jusqu'à la recette."
@@ -47,14 +47,16 @@ For seniority, count the years spent doing the kind of work the fiche asks for, 
 
 Seniority flags and orders; it does not set the verdict.
 
-Where DC versions disagree, show it with ? or inside the sentence when it changes the reading. Sources and DC versions stay out of the table.
+Where DC versions disagree, show it with ? or inside the sentence when it changes the reading. Which file said what, how many versions exist and how complete they are is ledger business, not sales business, so it stays out of the file.
 
 Then give each consultant one verdict, read off the core criteria:
 
-- Fort: has done the core work.
-- À regarder: has done part of the core work.
-- Outsider: has done the core work under another title, in another setting, or in words the fiche does not use, so it does not show on paper. These are the people a sales person is most likely to miss.
-- Pas pour cette mission: has not done the core work.
+- Très bon fit: has done the core work hands-on, in a comparable context.
+- Bon fit: has done a large part of the core work hands-on, with one or two clear gaps (a different stack, less seniority).
+- À creuser: hasn't done the core work, but part of the job or a plausible reading of the fiche fits, and one stated condition could make it work.
+- Pas pertinent: hasn't done the core work, and no condition would change that.
+
+The verdict says how well someone fits. Separately, open Pourquoi with "Fit caché :" for someone whose experience fits but whose title, sector or wording wouldn't suggest it: the person a quick read of the fiche and the DC would pass over, and whose real experience is undersold on paper. This can happen at any level.
 
 A consultant with no ledger gets "DC manquant" instead of a verdict. A fiche may fit few consultants, or none.
 
@@ -69,12 +71,15 @@ The reply, in this order:
 
 The file is a spreadsheet with one row per consultant, everyone included, ranked:
 
-| # | Consultant | Verdict | Pourquoi | À condition que | Métier | <one column per criterion> | Séniorité |
+| # | Consultant | Verdict | Pourquoi | Pourquoi pas | À condition que | Métier | <one column per criterion> | Séniorité |
 
-- #: overall rank. Sort by verdict, then within a verdict by the core criteria, then by the other criteria and seniority.
-- Pourquoi: 2 to 3 sentences in plain French, the way a colleague would sum the person up for this fiche. The readers are internal sales people, so no marketing tone.
-- À condition que: usually empty. Fill it only with the one condition that could change the verdict, for example "si le client accepte un profil Product Manager plutôt que Business Analyst". Availability, rate and location are the sales person's job.
+- #: overall rank, as a whole number. Sort by verdict, then within a verdict by the core criteria, then by the other criteria and seniority.
+- Pourquoi: the case for the person, in 2 to 3 sentences of plain French, the way a colleague would sum them up for this fiche. The readers are internal sales people, so no marketing tone. Describe; the sales person decides.
+- Pourquoi pas: the real reason the person falls short of this job, in a sentence or two, rather than a list of what the DC doesn't mention.
+- À condition que: filled for À creuser only, with the one condition that could make it work, for example "si le client accepte un profil Product Manager plutôt que Business Analyst". Availability, rate and location are the sales person's job.
 - Métier: a few words.
 - Criterion columns: named after the grille, each cell a mark and its sentence.
+
+For the top matches, Pourquoi and Pourquoi pas can take one or two more sentences, non-technical and in plain language; for Pas pertinent, one short line each is enough. End the sheet at the last consultant, with no empty rows after it.
 
 Write everything in French, the reply and the spreadsheet alike. Write it the way French tech and consulting teams actually talk: terms like backlog, product owner, delivery or run stay in English when that is what people say. Spell out role names rather than abbreviating them (Business Analyst, not BA; Product Owner, not PO). Plain language, no scores or percentages; the marks are the only scale.
