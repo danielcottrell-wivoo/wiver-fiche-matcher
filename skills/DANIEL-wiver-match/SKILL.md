@@ -51,12 +51,12 @@ Where DC versions disagree, show it with ? or inside the sentence when it change
 
 Then give each consultant one verdict, read off the core criteria:
 
-- Très bon fit: has done the core work hands-on, in a comparable context.
-- Bon fit: has done a large part of the core work hands-on, with one or two clear gaps (a different stack, less seniority).
-- À creuser: hasn't done the core work, but part of the job or a plausible reading of the fiche fits, and one stated condition could make it work.
+- Bon fit: has done the core work hands-on, in a comparable context.
+- Fit avec réserves: has done a large part of the core work hands-on, with one or two gaps outside the core (less seniority, a secondary criterion).
+- À creuser: hasn't done the core work, but has done part of it, and one condition about the person could make it work, such as ramping up on a tool. When the fiche itself is ambiguous, say so in the Lecture du poste rather than reading it to fit a candidate.
 - Pas pertinent: hasn't done the core work, and no condition would change that.
 
-The verdict says how well someone fits. Separately, open Pourquoi with "Fit caché :" for someone whose experience fits but whose title, sector or wording wouldn't suggest it: the person a quick read of the fiche and the DC would pass over, and whose real experience is undersold on paper. This can happen at any level.
+The verdict says how well someone fits. Separately, open Pourquoi with "Fit caché :" for someone whose experience fits but whose title, sector or wording wouldn't suggest it: the person a quick read of the fiche and the DC would pass over, and whose real experience is undersold on paper. This can happen at any level. The flag explains a verdict the core criteria already support; it does not raise one.
 
 A consultant with no ledger gets "DC manquant" instead of a verdict. A fiche may fit few consultants, or none.
 
