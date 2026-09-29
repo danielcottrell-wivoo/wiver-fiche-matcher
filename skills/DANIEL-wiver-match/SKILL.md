@@ -9,17 +9,17 @@ Given a mission fiche and the consultants in intermission, produce a table telli
 
 Each consultant has a folder in the Drive folder "DC- Consultants Wivoo" (`149FelJQXXY6lZSE40By4D-ApIldqYSJp`), named roughly "DC - Prénom NOM". The folder holds their DCs and a `ledger.md`: a complete record of what their DCs say, written for you to match against.
 
-### 1. Ledgers
+### 1. Read the fiche and set the grille
 
-For each name, find the folder and list its files. If there is no `ledger.md`, or any other file was modified after it, rebuild it by following `ledger-builder.md`. Then read `ledger.md`.
-
-### 2. Read the fiche and set the grille
-
-Fiches are dense and written in the client's vocabulary, and their title does not always match the work. Work out the core work of the job: what the consultant will actually do day to day. Tools, sector and education listed in the fiche are secondary.
+Start from the fiche alone, before reading any ledger, so the grille reflects the job rather than the pool. Fiches are dense and written in the client's vocabulary, and their title does not always match the work. Work out the core work of the job: what the consultant will actually do day to day. Tools, sector and education listed in the fiche are secondary.
 
 Every fiche implies a grille: the few things that decide who can do this job. Make it explicit with 3 to 6 criteria, or more if you judge it necessary. Phrase each one as work to have done, not as keywords or tools, and give it one line on why it matters here. Mark which criteria are core: they decide the verdict, while the others only order people within a verdict. Sector, or prior work at this client, becomes a criterion only when the fiche makes it matter. Seniority is always assessed, separately.
 
 If the fiche describes more than one role (for example a project manager plus technical profiles), give your reading of each role and ask the user which one to match, or both, before going on. For several roles, produce one grille and one tab per role.
+
+### 2. Ledgers
+
+For each name, find the folder and list its files. If there is no `ledger.md`, or any other file was modified after it, rebuild it by following `ledger-builder.md`. Then read `ledger.md`.
 
 ### 3. Judge each consultant
 
@@ -67,11 +67,11 @@ A consultant with no ledger gets "DC manquant" instead of a verdict. A fiche may
 The reply, in this order:
 
 1. Lecture du poste: a short paragraph in plain language on what the job seems to actually be and what kind of profile the client seems to be looking for.
-2. Ce que j'évalue: the grille, one line per criterion saying why it matters, core criteria marked, and how seniority is read for this fiche.
-3. A one-line legend for the marks.
+2. Ce que j'évalue: the grille, one line per criterion saying why it matters, core criteria marked, how seniority is read for this fiche, and a one-line legend for the marks.
+3. En bref: a few lines on who stands out and why, and whether anyone fits at all.
 4. The file.
 
-The file is a spreadsheet with one row per consultant, everyone included, ranked:
+The file is a spreadsheet holding only the ranked table (one tab per role when there are several); the grille stays in the reply. One row per consultant, everyone included:
 
 | # | Consultant | Verdict | Pourquoi | Pourquoi pas | À condition que | Métier | <one column per criterion> | Séniorité |
 
