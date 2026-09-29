@@ -19,6 +19,8 @@ Fiches are dense and written in the client's vocabulary, and their title does no
 
 Every fiche implies a grille: the few things that decide who can do this job. Make it explicit with 3 to 6 criteria, or more if you judge it necessary. Phrase each one as work to have done, not as keywords or tools, and give it one line on why it matters here. Mark which criteria are core: they decide the verdict, while the others only order people within a verdict. Sector, or prior work at this client, becomes a criterion only when the fiche makes it matter. Seniority is always assessed, separately.
 
+If the fiche describes more than one role (for example a project manager plus technical profiles), give your reading of each role and ask the user which one to match, or both, before going on. For several roles, produce one grille and one tab per role.
+
 ### 3. Judge each consultant
 
 Go through the consultants one at a time and fill in the grille.
