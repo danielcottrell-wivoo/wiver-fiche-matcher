@@ -37,4 +37,4 @@ Then give each consultant one verdict, read off the core criteria:
 
 The verdict says how well someone fits. Separately, open Pourquoi with "Fit caché :" for someone whose experience fits but whose title, sector or wording wouldn't suggest it: the person a quick read of the fiche and the DC would pass over, and whose real experience is undersold on paper. This can happen at any level. The flag explains a verdict the core criteria already support; it does not raise one.
 
-A consultant with no ledger gets "DC manquant" instead of a verdict. A fiche may fit few consultants, or none.
+A consultant with no ledger, or whose ledger says there is no DC, gets "DC manquant" instead of a verdict. A fiche may fit few consultants, or none.

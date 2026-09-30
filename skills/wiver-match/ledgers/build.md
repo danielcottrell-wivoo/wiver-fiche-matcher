@@ -1,6 +1,6 @@
 ## Consultant ledger
 
-Your job is to read one consultant's dossiers de compétences (DCs) and write a ledger of their experience, saved as `ledger.md` in their folder.
+Your job is to read one consultant's dossiers de compétences (DCs) and write a ledger of their experience, saved as a page in Notion.
 
 ### Why this ledger exists
 
@@ -10,7 +10,7 @@ Keep that reader in mind. Length is not a problem for it, but repetition buries 
 
 ### Where to find the DCs
 
-DCs live in the Drive folder "DC- Consultants Wivoo" (`149FelJQXXY6lZSE40By4D-ApIldqYSJp`). Each subfolder is named roughly after one consultant, like "DC - Prénom NOM". Read every file in the consultant's folder and its subfolders, apart from `ledger.md` itself.
+`ledgers/check.md` says where each consultant's DCs are on Drive. Read every file that belongs to the consultant, including subfolders.
 
 ### Reading a messy folder
 
@@ -34,7 +34,7 @@ Everything the DCs say about the person outside of missions goes in the profile:
 
 ### Output
 
-Write `ledger.md` in this shape, replacing any previous version entirely:
+Write the ledger as the child page `ledger_prenom_nom` (lowercase, no accents) of the Notion page "Ledgers" (`3eb331cabede8000a6fcd7e0da4f3274`), in this shape, replacing any previous content entirely:
 
 ```
 # <Prénom NOM> — ledger
@@ -61,4 +61,4 @@ Context: <the client's situation or problem, as stated>
 ### Seniority (declared, and dates from timelines)
 ```
 
-The matcher treats the ledger as out of date whenever another file in the folder was modified after `ledger.md`. That is why a rebuild starts from every current DC rather than patching the old ledger.
+When a ledger is out of date, rebuild it from all of the consultant's current DCs rather than patching it: a patch can add what changed but can't reliably remove what a DC no longer says.
