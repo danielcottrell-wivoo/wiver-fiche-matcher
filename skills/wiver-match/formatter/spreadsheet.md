@@ -12,12 +12,12 @@ The reply, in this order:
 
 The file is a spreadsheet holding only the ranked table (one tab per role when there are several); the grille stays in the reply. One row per consultant, everyone included:
 
-| # | Consultant | Verdict | Pourquoi | Pourquoi pas | À condition que | Métier | <one column per criterion> | Séniorité |
+| # | Consultant | Disponibilité | Verdict | Pourquoi | Pourquoi pas | À condition que | Métier | <one column per criterion> | Séniorité |
 
 - #: overall rank, as a whole number. Sort by verdict, then within a verdict by the core criteria, then by the other criteria and seniority.
 - Pourquoi: the case for the person, in 2 to 3 sentences of plain French, the way a colleague would sum them up for this fiche. The readers are internal sales people, so no marketing tone. Describe; the sales person decides.
 - Pourquoi pas: the real reason the person falls short of this job, in a sentence or two.
-- À condition que: filled for À creuser only, with the one condition that could make it work, for example "si le client accepte un profil Product Manager plutôt que Business Analyst". Availability, rate and location are the sales person's job.
+- À condition que: filled for À creuser only, with the one condition that could make it work, for example "si le client accepte un profil Product Manager plutôt que Business Analyst". Rate and location are the sales person's job.
 - Métier: a few words.
 - Criterion columns: named after the grille, each cell a mark and its sentence.
 
