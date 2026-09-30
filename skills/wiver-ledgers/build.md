@@ -10,7 +10,7 @@ Keep that reader in mind. Length is not a problem for it, but repetition buries 
 
 ### Where to find the DCs
 
-`ledgers/check.md` says where each consultant's DCs are on Drive. Read every file that belongs to the consultant, including subfolders.
+`SKILL.md` says where each consultant's DCs are on Drive. Read every file that belongs to the consultant, including subfolders.
 
 ### Reading a messy folder
 

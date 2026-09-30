@@ -1,6 +1,6 @@
 ---
 name: wiver-match
-description: Match a Wivoo mission fiche against the consultants in intermission, using their ledgers in Notion. Use when a sales person shares a fiche de poste, appel d'offres or mission description and wants to know which consultants could take it, or when asked to create or update the consultants' ledgers.
+description: Match a Wivoo mission fiche against the consultants in intermission, using their ledgers in Notion. Use when a sales person shares a fiche de poste, appel d'offres or mission description and wants to know which consultants could take it.
 ---
 
 ## Fiche match
@@ -13,5 +13,3 @@ Work through these files in order, reading each one when you reach it (paths are
 2. `matching/consultants.md`: get the list of consultants and read their ledgers.
 3. `matching/matcher.md`: judge each consultant against the grille.
 4. `formatter/spreadsheet.md`: write the reply and the file.
-
-The creation and updating of the ledgers themselves is a separate task handled entirely in `ledgers/`, not to be accessed unless specifically instructed via the user or a skill instruction.
