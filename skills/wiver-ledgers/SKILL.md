@@ -1,6 +1,6 @@
 ---
 name: wiver-ledgers
-description: Create and update the ledgers of Wivoo consultants looking for a mission, from their dossiers de compétences on Drive to one ledger page per consultant in Notion. Use when asked to build, refresh or check the ledgers, or when a consultant joins the intermission list or updates their DC.
+description: Always called manually by the user, never invoked automatically by Claude.
 ---
 
 ## Ledgers
