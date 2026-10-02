@@ -14,8 +14,7 @@ Each criterion gets a mark, then one sentence saying what the person's experienc
 |---|---|
 | ● | Has done it, as the main role, in a comparable context |
 | ◕ | Has done it, in a smaller or different context |
-| ◑ | Has done part of it, or in support |
-| ◔ | Adjacent work only |
+| ◑ | Has done part of it, or in support, or Adjacent work |
 | ○ | Nothing in the DC |
 | ? | Claimed but never shown in a mission, or the DC is unclear |
 
