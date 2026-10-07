@@ -100,7 +100,7 @@ Un tableau, une ligne par consultant. Colonnes : Consultant · Pourquoi · Pourq
 
 - **Consultant** : rang, emoji de la note générale, nom. Ex. « 1. ⭐ Nathalie ALBERT ».
 - **Pourquoi** : ce qui est intéressant pour cette fiche, une puce par critère, dans cet
-  ordre : Disponibilité · chaque ★ compétence · Connaissance
+  ordre : Disponibilité · ★ Compétence 1 · ★ Compétence 2 · ★ Compétence 3 · Connaissance
   secteur · Séniorité.
   - Une puce = un fait court, chiffré si possible. Viser environ 8 mots.
   - Chaque puce de compétence ou de connaissance secteur cite l'entreprise.
@@ -158,8 +158,8 @@ ou de l'Excel. Pour chaque consultant demandé :
 - Un titre de niveau 3 avec seulement l'emoji 👤 et le nom.
 - Juste en dessous, la même ligne qu'en section 4 : note générale · disponibilité.
 
-Un tableau à 3 colonnes : Exigence · Note · Détail. Les exigences dans l'ordre du Top
-(★ compétences, Connaissance secteur, Séniorité). Chaque exigence prend deux lignes :
+Un tableau à 3 colonnes : Exigence · Note · Détail. Les 5 exigences dans l'ordre du Top
+(3 ★ compétences, Connaissance secteur, Séniorité). Chaque exigence prend deux lignes :
 - Ligne principale : l'exigence en gras dans la 1re colonne, la note dans la 2e, puis
   « **Preuve** : » suivi de ce qu'il a fait pour cette exigence, en une phrase qui
   interprète au lieu de lister, en nommant toujours l'entreprise (« Client (via
