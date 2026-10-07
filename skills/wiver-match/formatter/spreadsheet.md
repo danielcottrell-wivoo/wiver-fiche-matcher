@@ -1,5 +1,3 @@
-## Response format
-
 ## Principes
 
 - Le lecteur est un commercial Wivoo. Il parcourt beaucoup de fiches par jour et connaît
@@ -102,7 +100,7 @@ Un tableau, une ligne par consultant. Colonnes : Consultant · Pourquoi · Pourq
 
 - **Consultant** : rang, emoji de la note générale, nom. Ex. « 1. ⭐ Nathalie ALBERT ».
 - **Pourquoi** : ce qui est intéressant pour cette fiche, une puce par critère, dans cet
-  ordre : Disponibilité · ★ Compétence 1 · ★ Compétence 2 · ★ Compétence 3 · Connaissance
+  ordre : Disponibilité · chaque ★ compétence · Connaissance
   secteur · Séniorité.
   - Une puce = un fait court, chiffré si possible. Viser environ 8 mots.
   - Chaque puce de compétence ou de connaissance secteur cite l'entreprise.
@@ -139,8 +137,8 @@ Une ligne horizontale (---) entre deux consultants.
 
 ### 📊 5. Tous les consultants
 
-Une phrase avec le lien vers l'Excel sur Google Drive : tous les consultants évalués y
-sont, avec leur verdict et le détail par critère.
+Une phrase qui renvoie à l'Excel joint : tous les consultants évalués y sont, avec leur
+verdict et le détail par critère.
 
 ### 👉 Invitation finale
 
@@ -160,21 +158,20 @@ ou de l'Excel. Pour chaque consultant demandé :
 - Un titre de niveau 3 avec seulement l'emoji 👤 et le nom.
 - Juste en dessous, la même ligne qu'en section 4 : note générale · disponibilité.
 
-Un tableau à 3 colonnes : Exigence · Note · Détail. Les 5 exigences dans l'ordre du Top
-(3 ★ compétences, Connaissance secteur, Séniorité). Chaque exigence prend deux lignes :
+Un tableau à 3 colonnes : Exigence · Note · Détail. Les exigences dans l'ordre du Top
+(★ compétences, Connaissance secteur, Séniorité). Chaque exigence prend deux lignes :
 - Ligne principale : l'exigence en gras dans la 1re colonne, la note dans la 2e, puis
   « **Preuve** : » suivi de ce qu'il a fait pour cette exigence, en une phrase qui
   interprète au lieu de lister, en nommant toujours l'entreprise (« Client (via
   Intermédiaire) », ou « client non précisé »).
 - Sous-ligne : 1re colonne « ↳ *À vérifier* », 2e colonne vide, puis en italique les
-  points flous à lever, sans les formuler en questions. Ils peuvent porter sur le
-  consultant (son rôle réel, son périmètre, un résultat non chiffré : « si elle a
-  vraiment participé aux sessions de roadmapping ») ou sur le client (« si le client
-  est strict sur une expérience de Product Owner pure »). Un ou deux points maximum,
+  points flous à lever sur le consultant, sans les formuler en questions : son rôle
+  réel, son périmètre, un résultat non chiffré (« si elle a vraiment participé aux
+  sessions de roadmapping »). Un ou deux points maximum,
   séparés par « ; ». « Rien à vérifier » si c'est le cas.
 
 La séniorité donne le calcul court (« 3 ans de Product Owner sur 10 ; la fiche en
-demande 5 ») et, si besoin, l'alerte TJM.
+demande 5 »).
 
 Sous le tableau, pour un consultant hors du top 3 : ✉️ Pitch client et ✏️ Améliorer le
 DC, avec les mêmes règles qu'en section 4. Pas de section ☑️ À vérifier avant envoi : les
@@ -209,7 +206,7 @@ s'adresse au client.
 
 The table is read in seconds by someone deciding who to call, so each cell carries what bears on that decision for this fiche. Before writing something down, ask whether the sales person would decide differently for knowing it; if not, it is noise, however true. Most of what the ledger flags, such as disagreements between versions or details a DC leaves out, changes nothing for a given fiche. In a table about colleagues, raising it needlessly can also read as doubt about someone's honesty.
 
-The link to the spreadsheet on Google Drive goes in the section « Tous les consultants » of the reply.
+The spreadsheet is an .xlsx file attached to the reply; the section « Tous les consultants » points to it.
 
 The spreadsheet holds only the ranked table (one tab per role when there are several). One row per consultant, everyone included:
 
@@ -278,7 +275,7 @@ La forme à suivre. Le contenu entre < > vient des règles ci-dessus, pas de ce 
 
 ## 📊 5. Tous les consultants
 
-Tous les consultants évalués sont dans l'[Excel](<lien>), avec leur verdict et le détail par critère.
+Tous les consultants évalués sont dans l'Excel joint, avec leur verdict et le détail par critère.
 
 ---
 
