@@ -1,6 +1,6 @@
 ---
-name: wiver-match
-description: Match a Wivoo mission fiche against the consultants in intermission, using their ledgers in Notion. Use when a sales person shares a fiche de poste, appel d'offres or mission description and wants to know which consultants could take it.
+name: wiver-match-2
+description: Version 2 (en test) de wiver-match. Match a Wivoo mission fiche against the consultants in intermission, using their ledgers in Notion. Use when a sales person shares a fiche de poste, appel d'offres or mission description and wants to know which consultants could take it.
 ---
 
 ## Fiche match
