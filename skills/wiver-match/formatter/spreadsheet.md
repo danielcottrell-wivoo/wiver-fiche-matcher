@@ -85,20 +85,22 @@ En puces, une phrase chacune :
 
 ### 🏆 3. Le Top
 
-Qui entre dans le Top, dans l'ordre du classement :
+Qui entre dans le Top, dans l'ordre du classement, parmi les consultants disponibles à la
+date de démarrage ou dans l'horizon validé avec le commercial (les autres restent dans
+l'Excel) :
 - les Bon fit et les Fit avec réserves, 5 au maximum ;
 - s'il n'y en a aucun, les 3 meilleurs À creuser ;
 - s'il n'y a même pas d'À creuser, pas de Top : retirer les sections 3 et 4, renuméroter
   les suivantes, et laisser le recap dire ce qui manque.
 
 Si des consultants n'ont pas de DC exploitable, les signaler juste sous le titre de la
-section, avant le tableau, en une petite ligne en italique : « *⚠️ DC manquant : Eléna
-WONG, Oladele HOUESSOU (non évalués)* ». C'est le seul endroit où ils apparaissent. S'il
+section, avant le tableau, en une petite ligne en italique : « *⚠️ DC manquant : Prénom
+NOM, Prénom NOM (non évalués)* ». C'est le seul endroit où ils apparaissent. S'il
 n'y a pas de Top, cette ligne passe en section « Tous les consultants ».
 
 Un tableau, une ligne par consultant. Colonnes : Consultant · Pourquoi · Pourquoi pas.
 
-- **Consultant** : rang, emoji de la note générale, nom. Ex. « 1. ⭐ Nathalie ALBERT ».
+- **Consultant** : rang, emoji de la note générale, nom. Ex. « 1. ⭐ Prénom NOM ».
 - **Pourquoi** : ce qui est intéressant pour cette fiche, une puce par critère, dans cet
   ordre : Disponibilité · ★ Compétence 1 · ★ Compétence 2 · ★ Compétence 3 · Connaissance
   secteur · Séniorité.
