@@ -11,9 +11,9 @@ Then look for the points flous: information the fiche leaves out and the sales p
 Show the user, before reading any ledger, in this order:
 
 1. « Voilà les points centraux que j'ai retenus pour évaluer le match entre les consultants et la fiche. »
-2. The core criteria as a two-column table, « Critère » and « Ce que la fiche attend »: one row per ★ criterion, with its short label and the work to have done, then rows for Connaissance secteur, Séniorité and Disponibilité. When the fiche is unclear on one of them, the second cell says in a few words how you read it (for example « Séniorité » and « pas de durée dans la fiche ; « forte expérience confirmée » lu comme 5 ans et plus »).
+2. The core criteria as a two-column table, « Critère » and « Ce que la fiche attend »: one row per ★ criterion, with its short label and the work to have done, then rows for Connaissance secteur, Séniorité and Disponibilité. When the fiche is unclear on one of them, the second cell says in a few words how you read it. Séniorité opens with the years you will count and on what work, then your reading if needed (« 5 ans et plus en Product Owner ; la fiche dit « forte expérience confirmée » sans durée »). Each point flou's hypothesis goes in the row it concerns; for a missing start date, Disponibilité says « Pas de date dans la fiche : je regarde les consultants disponibles d'ici le <date> ».
 3. The other criteria of the grille in one line, introduced with « Autres critères pris en compte, hors cœur : ».
-4. All the questions, last, one per line, each with a bold label: first always « **Critères** : ça te va ? », then each point flou as one short question that carries its default. For a missing start date, use this sentence word for word, with your horizon as the date: « **Démarrage** : pas de date dans la fiche. Je regarde les consultants disponibles d'ici le <date>, ou plus loin ? » End with « Quelque chose à ajouter, ou je lance ? »
+4. Last, word for word: « Les critères et la date de démarrage te vont ? Quelque chose à ajouter, ou je lance ? »
 
 Then wait for the answer. What the sales person says replaces a point flou's hypothesis, and anything they add (a hard requirement, client context) updates the grille; a point left unanswered keeps its hypothesis. Consultants available after the start date or the agreed horizon stay out of the Top.
 
