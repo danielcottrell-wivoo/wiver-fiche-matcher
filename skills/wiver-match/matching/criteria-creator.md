@@ -6,17 +6,15 @@ Every fiche implies a grille: the few things that decide who can do this job. Ma
 
 The reply is built on the ★ compétences, in this order, each with a short label of 2 to 3 words (« ★ Business analysis », « ★ IA / data »).
 
-Then look for the points flous: passages of the fiche that are ambiguous, or major information it leaves out (the weight of a secondary scope, whether the client wants a pure Business Analyst or would take a Product Owner…), when the answer would change who fits. Keep only those, from 0 to 3. For each, decide the hypothesis you will take if the sales person does not know.
+Then look for the points flous: information the fiche leaves out and the sales person probably knows (a start date, the duration, remote work…), when the answer would change who fits. Your reading of the fiche itself, such as the role, the seniority or the weight of a tool, is not a point flou: it goes in the table. Keep only those, from 0 to 3. For each, decide the hypothesis you will take if the sales person does not know.
 
 Show the user, before reading any ledger, in this order:
 
-1. « Voilà les points centraux que j'ai retenus pour évaluer le match entre les consultants et la fiche. Avant de lancer l'analyse, tu es d'accord ? Tu as des choses à ajouter (contexte client, date de démarrage, disponibilité plus large) ? »
-2. If there are any, the points flous under « **Points flous** », one bullet each: the passage or the missing information, the hypothesis you will take by default, and what would change if it were wrong.
-3. The core criteria as a two-column table, « Critère » and « Ce que la fiche attend »: one row per ★ criterion, with its short label and the work to have done, then rows for Connaissance secteur, Séniorité and Disponibilité. When the fiche is unclear on one of them, the second cell says how you read it (for example « Séniorité » and « pas de durée dans la fiche ; « forte expérience confirmée » lu comme 5 ans et plus »). When the fiche gives no start date, the Disponibilité row says « Pas de date de démarrage dans la fiche : je prends les consultants disponibles d'ici la fin du mois ». Consultants available after that horizon stay out of the Top.
-4. The other criteria of the grille in one line, introduced with « Autres critères pris en compte, hors cœur : ».
+1. « Voilà les points centraux que j'ai retenus pour évaluer le match entre les consultants et la fiche. »
+2. The core criteria as a two-column table, « Critère » and « Ce que la fiche attend »: one row per ★ criterion, with its short label and the work to have done, then rows for Connaissance secteur, Séniorité and Disponibilité. When the fiche is unclear on one of them, the second cell says in a few words how you read it (for example « Séniorité » and « pas de durée dans la fiche ; « forte expérience confirmée » lu comme 5 ans et plus »).
+3. The other criteria of the grille in one line, introduced with « Autres critères pris en compte, hors cœur : ».
+4. All the questions, last, one per line, each with a bold label: first always « **Critères** : ça te va ? », then each point flou as one question that carries its default (« **Démarrage** : pas de date dans la fiche. Je regarde les consultants disponibles d'ici la fin du mois, ou plus loin ? »). End with « Quelque chose à ajouter, ou je lance ? »
 
-Then wait for the answer.
-
-What the sales person says replaces the matching hypothesis, including the availability horizon; anything left unanswered keeps it. The reply does not come back to the points flous: they are settled here.
+Then wait for the answer. What the sales person says replaces a point flou's hypothesis, and anything they add (a hard requirement, client context) updates the grille; a point left unanswered keeps its hypothesis. Consultants available after the start date or the agreed horizon stay out of the Top.
 
 If the fiche describes more than one role (for example a project manager plus technical profiles), ask in the same message which one to match, or both. For several roles, produce one grille and one tab per role.
